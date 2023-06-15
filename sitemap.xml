@@ -3,7 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://anakin-dey.com/about/</loc>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://anakin-dey.com/resume/</loc>
   </url><url>
     <loc>https://anakin-dey.com/</loc>
   </url><url>
