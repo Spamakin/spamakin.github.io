@@ -28,5 +28,12 @@
       <guid>https://anakin-dey.com/resume/</guid>
       <description>My Resume</description>
     </item>
+    <item>
+      <title></title>
+      <link>https://anakin-dey.com/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://anakin-dey.com/writing/</guid>
+      <description>Papers and Slides</description>
+    </item>
   </channel>
 </rss>
