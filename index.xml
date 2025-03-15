@@ -4,36 +4,43 @@
     <title>Anakin Dey</title>
     <link>https://anakin-dey.com/</link>
     <description>Recent content on Anakin Dey</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="https://anakin-dey.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://anakin-dey.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://anakin-dey.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://anakin-dey.com/about/</guid>
       <description>More About Me</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://anakin-dey.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://anakin-dey.com/cv/</guid>
       <description>My CV</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://anakin-dey.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://anakin-dey.com/resume/</guid>
       <description>My Resume</description>
     </item>
+    
     <item>
       <title></title>
       <link>https://anakin-dey.com/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://anakin-dey.com/writing/</guid>
       <description>Papers and Slides</description>
     </item>
+    
   </channel>
 </rss>
