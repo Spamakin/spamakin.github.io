@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anakin Dey</title>
+    <link>https://anakin.phd/</link>
+    <description>Recent content on Anakin Dey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://anakin.phd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://anakin.phd/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anakin.phd/about/</guid>
+      <description>More About Me</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anakin.phd/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anakin.phd/cv/</guid>
+      <description>My CV</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anakin.phd/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anakin.phd/resume/</guid>
+      <description>My Resume</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anakin.phd/seminars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anakin.phd/seminars/</guid>
+      <description>Seminar Talks</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anakin.phd/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anakin.phd/teaching/</guid>
+      <description>When I am Teaching</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anakin.phd/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anakin.phd/writing/</guid>
+      <description>Papers and Slides</description>
+    </item>
+    
+  </channel>
+</rss>

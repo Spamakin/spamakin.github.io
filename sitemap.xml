@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://anakin.phd/about/</loc>
+  </url><url>
+    <loc>https://anakin.phd/cv/</loc>
+  </url><url>
+    <loc>https://anakin.phd/resume/</loc>
+  </url><url>
+    <loc>https://anakin.phd/seminars/</loc>
+  </url><url>
+    <loc>https://anakin.phd/teaching/</loc>
+  </url><url>
+    <loc>https://anakin.phd/writing/</loc>
+  </url><url>
+    <loc>https://anakin.phd/</loc>
+  </url><url>
+    <loc>https://anakin.phd/website/</loc>
+  </url>
+</urlset>
