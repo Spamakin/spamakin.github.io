@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Past_activities on Anakin Dey</title>
-    <link>https://anakin.phd/past_activities/</link>
-    <description>Recent content in Past_activities on Anakin Dey</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://anakin.phd/past_activities/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://anakin.phd/past_activities/ca25/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anakin.phd/past_activities/ca25/</guid>
-      <description>&lt;h1 id=&#34;reading-group&#34;&gt;Reading Group&lt;/h1&gt;&#xA;&lt;p&gt;In the Spring of 2026, I organized a reading course on commutative algebra.&#xA;We met Wednesdays 12:40 - 1:35 PM in MW 152.&lt;/p&gt;&#xA;&lt;h3 id=&#34;schedule&#34;&gt;Schedule&lt;/h3&gt;&#xA;&lt;p&gt;[&lt;a href=&#34;../CA/problem_list.pdf&#34;&gt;Here&lt;/a&gt;] is a list of problems from Atiyah-Macdonald that we worked through.&#xA;Another good resource is Altman-Kleiman&amp;rsquo;s &lt;em&gt;A Term in Commutative Algebra&lt;/em&gt; which is essentially Atiyah-Macdonald++.&#xA;Below is a list of dates we met as well as the problems for each day to discuss.&#xA;The &lt;strong&gt;bolded&lt;/strong&gt; problems were the ones that we presented each day.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Past_activities on Anakin Dey</title>
+		<link>https://anakin.phd/past_activities/</link>
+		<description>Recent content in Past_activities on Anakin Dey</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="https://anakin.phd/past_activities/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>https://anakin.phd/past_activities/ca25/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://anakin.phd/past_activities/ca25/</guid>
+				<description>&lt;h1 id=&#34;reading-group&#34;&gt;Reading Group&lt;/h1&gt;&#xA;&lt;p&gt;In the Spring of 2026, I organized a reading course on commutative algebra.&#xA;We met Wednesdays 12:40 - 1:35 PM in MW 152.&lt;/p&gt;&#xA;&lt;h3 id=&#34;schedule&#34;&gt;Schedule&lt;/h3&gt;&#xA;&lt;p&gt;[&lt;a href=&#34;../CA/problem_list.pdf&#34;&gt;Here&lt;/a&gt;] is a list of problems from Atiyah-Macdonald that we worked through.&#xA;Another good resource is Altman-Kleiman&amp;rsquo;s &lt;em&gt;A Term in Commutative Algebra&lt;/em&gt; which is essentially Atiyah-Macdonald++.&#xA;Below is a list of dates we met as well as the problems for each day to discuss.&#xA;The &lt;strong&gt;bolded&lt;/strong&gt; problems were the ones that we presented each day.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
